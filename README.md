@@ -1,7 +1,7 @@
 # PayWeb_Shopify
 ## DPO PayGate Shopify method v1.0.7
 
-This is the DPO PayGate PayWeb3 method for ECWID. Please feel free to contact the DPO PayGate support team at support@paygate.co.za should you require any assistance.
+This is the DPO PayGate PayWeb3 method for Shopify. Please feel free to contact the DPO PayGate support team at support@paygate.co.za should you require any assistance.
 
 ## Installation
 
