@@ -1,0 +1,10 @@
+Version 1.0.7 - Only process IPN if result not 'pending'
+		Only process Redirect if result not 'pending'
+		Make 'cancelled' transaction work as per 'failed' transaction
+		Add API version to 'check_version' error response
+Version 1.0.6 - Fix test mode in paygate-shopify.class.php
+		Add encrypt/decrypt functionality for shopify callback url which is passed as variable 
+		Remove notify step from redirect handler in paygate-shopify.class.php
+		Add NOTIFY_URL to data payload in paygate-shopify.class.php
+		Add callback.php to handle IPN
+Version 1.0.5 - Initial commit by Byron Rode.
