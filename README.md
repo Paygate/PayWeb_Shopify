@@ -4,6 +4,7 @@
 This is the DPO PayGate PayWeb3 method for Shopify. Please feel free to contact the DPO PayGate support team at support@paygate.co.za should you require any assistance.
 
 ## Installation
+[![How To Setup DPO | PayGate PayWeb for Shopify](https://www.appinlet.com/wp-content/uploads/2018/09/Shopify-Integration.jpg)](https://www.youtube.com/watch?v=JR06_Xt_TbY "How To Setup DPO | PayGate PayWeb for Shopify")
 
 Please navigate to the [releases page](https://github.com/PayGate/PayWeb_Shopify/releases), download the latest release (v1.0.7). You will them be able to follow the integration guide PDF.
 
