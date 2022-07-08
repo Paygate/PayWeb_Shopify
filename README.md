@@ -4,7 +4,7 @@
 This is the PayGate PayWeb3 method for Shopify. Please feel free to contact the PayGate support team at support@paygate.co.za should you require any assistance.
 
 ## Installation
-[![How To Setup PayGate PayWeb for Shopify](https://appinlet.com/wp-content/uploads/2022/07/PayGate-Shopify-New-API-Upgrade-Path.jpg)](https://www.youtube.com/watch?v=H4zmwi5fQ6I "How To Setup PayGate PayWeb for Shopify")
+[![PayGate Shopify New API Upgrade Path](https://appinlet.com/wp-content/uploads/2022/07/PayGate-Shopify-New-API-Upgrade-Path.jpg)](https://www.youtube.com/watch?v=H4zmwi5fQ6I "PayGate Shopify New API Upgrade Path")
 
 Please navigate to the [releases page](https://github.com/PayGate/PayWeb_Shopify/releases), download the latest release (v1.0.7). You will then be able to follow the integration guide PDF.
 
